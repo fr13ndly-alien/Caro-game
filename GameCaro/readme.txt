@@ -1,0 +1,1 @@
+- nhận được tọa độ của quân cờ với y= 6 nhưng truyền vào phương thức checkHorizontal khi đọc ra lại là y= 5
